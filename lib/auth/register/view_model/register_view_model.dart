@@ -144,7 +144,7 @@ class RegisterViewModel with ChangeNotifier {
     }
   }
 
-  void checkItAndDecrease() {
+  void checkItAndDecrease() {  
     // ignore: todo
     _registerWidgetCountDecrease(); // TODO: Burayı tekrar düşün bir eksiklik olabilir
   }
